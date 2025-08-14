@@ -1,3 +1,5 @@
+// made this with gemini. I don't know how to code. pretty sure the sun/cloud just sit in the screen somewhere, idk honestly.
+
 #include <esp_now.h>
 #include <WiFi.h>
 #include <TFT_eSPI.h>
